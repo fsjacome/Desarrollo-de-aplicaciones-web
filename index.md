@@ -6,7 +6,7 @@
 >***
 > ## Muestra de codigo de proyecto
 >> <html>
-          <head>
-            <title>Test</title>
-          </head>
+>>           <head>
+>>             <title>Test</title>
+>>           </head>
 >>  
