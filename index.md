@@ -4,7 +4,7 @@
 > ***
 >> ### Proyecto 1.  
 >>>descripcion de proyecto.  
->>>[Link de proyecto](www.google.com)
+>>>[Link de proyecto](www.google.com).  
 
 >> ***
 
