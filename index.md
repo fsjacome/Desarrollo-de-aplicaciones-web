@@ -10,8 +10,9 @@
 
 
 
->> ### Proyecto 1.  
->>descripcion de proyecto.  
+>> ### Proyecto 2.  
+>> ####Descripcion de proyecto.  
+>> Aqui va la descripcion del proyecto.
 >>[Link de proyecto](www.google.com)
 >>***
 
